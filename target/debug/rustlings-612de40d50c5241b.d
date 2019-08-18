@@ -1,0 +1,1 @@
+/home/weder/Documentos/rust/rust-learn-master/target/debug/rustlings-612de40d50c5241b: /home/weder/Documentos/rust/rust-learn-master/src/exercise.rs /home/weder/Documentos/rust/rust-learn-master/src/main.rs /home/weder/Documentos/rust/rust-learn-master/src/run.rs /home/weder/Documentos/rust/rust-learn-master/src/verify.rs

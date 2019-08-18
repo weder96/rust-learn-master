@@ -1,0 +1,12 @@
+/home/weder/Documentos/rust/rust-learn-master/target/debug/deps/inotify-8838d59a3a7e89b3.rmeta: /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/lib.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/events.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/fd_guard.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/inotify.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/util.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/watches.rs
+
+/home/weder/Documentos/rust/rust-learn-master/target/debug/deps/libinotify-8838d59a3a7e89b3.rlib: /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/lib.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/events.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/fd_guard.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/inotify.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/util.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/watches.rs
+
+/home/weder/Documentos/rust/rust-learn-master/target/debug/deps/inotify-8838d59a3a7e89b3.d: /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/lib.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/events.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/fd_guard.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/inotify.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/util.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/watches.rs
+
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/lib.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/events.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/fd_guard.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/inotify.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/util.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/watches.rs:

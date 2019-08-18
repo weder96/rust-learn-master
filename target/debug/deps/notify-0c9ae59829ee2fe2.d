@@ -1,0 +1,12 @@
+/home/weder/Documentos/rust/rust-learn-master/target/debug/deps/notify-0c9ae59829ee2fe2.rmeta: /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/lib.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/inotify.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/null.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/poll.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/debounce/mod.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/debounce/timer.rs
+
+/home/weder/Documentos/rust/rust-learn-master/target/debug/deps/libnotify-0c9ae59829ee2fe2.rlib: /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/lib.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/inotify.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/null.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/poll.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/debounce/mod.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/debounce/timer.rs
+
+/home/weder/Documentos/rust/rust-learn-master/target/debug/deps/notify-0c9ae59829ee2fe2.d: /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/lib.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/inotify.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/null.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/poll.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/debounce/mod.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/debounce/timer.rs
+
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/lib.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/inotify.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/null.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/poll.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/debounce/mod.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.12/src/debounce/timer.rs:

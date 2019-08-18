@@ -1,0 +1,13 @@
+/home/weder/Documentos/rust/rust-learn-master/target/debug/deps/memchr-ec9c1a2c6e9b0d69.rmeta: /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/home/weder/Documentos/rust/rust-learn-master/target/debug/deps/libmemchr-ec9c1a2c6e9b0d69.rlib: /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/home/weder/Documentos/rust/rust-learn-master/target/debug/deps/memchr-ec9c1a2c6e9b0d69.d: /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs:
+/home/weder/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs:
